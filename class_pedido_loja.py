@@ -211,7 +211,7 @@ class Pedido:
         self._inativo = False
 
 if __name__ == '__main__':  
-    cliente = Cliente()
+    cliente = Pedido()
     cliente.cadastrar_cliente()
     cliente.atualizar_cad_cliente()
     cliente.vizualizar_cliente()
