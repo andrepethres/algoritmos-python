@@ -67,13 +67,6 @@ if __name__ == '__main__':
   pessoa_2.idade = pessoa_2.calcular_idade()
   pessoa_2.imprimir_dados
 
-
-  
-
-
-  
-  
-      
   #pessoa_input = Pessoa()
 
   #def calcular_salário(self):
